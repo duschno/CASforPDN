@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{f79999bd-c2c9-48cb-8722-5dacc089554d}") = "CASEffect", "CASEffect\CASEffect.csproj", "{c979682c-72a0-4c77-96f7-a8c0a84d59e8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{c979682c-72a0-4c77-96f7-a8c0a84d59e8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c979682c-72a0-4c77-96f7-a8c0a84d59e8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c979682c-72a0-4c77-96f7-a8c0a84d59e8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{c979682c-72a0-4c77-96f7-a8c0a84d59e8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82cd56d6-6b07-41ac-9641-f14773b203a7}
+	EndGlobalSection
+EndGlobal
